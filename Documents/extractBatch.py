@@ -5,7 +5,7 @@
 # typing "pip install _____" ex. "pip install tkinter"
 
 ################################################################################
-# Author: Josias Ochoa @@@@ josiasochoalozano@gmail.com
+# Author: JO
 ################################################################################
 # Importing filedialog commands.
 from tkinter import filedialog
